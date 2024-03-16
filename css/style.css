@@ -1,0 +1,15 @@
+.animal-collage {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.animal-collage img {
+    width: auto;
+    margin-left: 10px;
+    
+}
+td img{
+    width: 60%;
+    height: 200px;
+
+}
